@@ -1,3 +1,5 @@
+package Sale;
+
 public class Sale {
     public static void main(String[] args) {
         final int shirtWithoutSale = 1500;                                                                             // цена без скидки
@@ -10,7 +12,8 @@ public class Sale {
         final double totalPriceWithDisc = amountShirtToGetDisc * (shirtWithoutSale - (discount * shirtWithoutSale));   // цена всех рубашек со скидкой
         final double shirtWithSale = shirtWithoutSale - (shirtWithoutSale * discount);                                 // цена одной рубашки со скидкой
         final double economy = priceOfSelShirtsWithoutDisc + (shirtWithoutSale * toGetDiscount) - totalPriceWithDisc;
-        final double halyava = economy / shirtWithoutSale;
+        final double freebie = economy / shirtWithoutSale;
+
         System.out.println("цена без скидки " + shirtWithoutSale);
         System.out.println("кол-во выбранных рубашек " + amountOfSelShirt);
         System.out.println("кол-во рубашек, которые надо купить, чтобы получить скидку " + amountShirtToGetDisc);
@@ -21,7 +24,7 @@ public class Sale {
         System.out.println("цена всех рубашек со скидкой " + totalPriceWithDisc);
         System.out.println("цена одной рубашки со скидкой " + shirtWithSale);
         System.out.println("Экономия составляет " + economy + " рублей");
-        System.out.println("На халяву рубашек получено " + halyava);
+        System.out.println("На халяву рубашек получено " + freebie);
 
         /*Вывод:
         цена без скидки 1500
