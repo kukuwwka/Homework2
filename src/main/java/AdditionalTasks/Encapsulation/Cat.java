@@ -1,4 +1,4 @@
-package AdditionalTasks.Animal.Encapsulation;
+package AdditionalTasks.Encapsulation;
 
 public class Cat {
     private String name; // исправлен модификатор доступа

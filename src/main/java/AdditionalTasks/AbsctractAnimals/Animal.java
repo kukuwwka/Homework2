@@ -1,4 +1,4 @@
-package AdditionalTasks.Animal.AbsctractAnimals;
+package AdditionalTasks.AbsctractAnimals;
 
 public class Animal {
     public static void main(String[] args) {

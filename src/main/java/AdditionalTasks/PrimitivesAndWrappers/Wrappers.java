@@ -1,4 +1,4 @@
-package AdditionalTasks.Animal.PrimitivesAndWrappers;
+package AdditionalTasks.PrimitivesAndWrappers;
 
 public class Wrappers {
     Byte a = 112;

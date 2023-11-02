@@ -1,4 +1,4 @@
-package AdditionalTasks.Animal.InterfaceRunnable;
+package AdditionalTasks.InterfaceRunnable;
 
 public class Bird implements Runnable {
     @Override

@@ -1,4 +1,4 @@
-package AdditionalTasks.Animal.AbsctractAnimals;
+package AdditionalTasks.AbsctractAnimals;
 
 public class Duck extends Animal {
     public void move() {

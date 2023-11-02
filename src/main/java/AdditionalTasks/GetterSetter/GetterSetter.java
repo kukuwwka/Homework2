@@ -1,4 +1,4 @@
-package AdditionalTasks.Animal.GetterSetter;
+package AdditionalTasks.GetterSetter;
 
 public class GetterSetter {
     private int value = 125;
