@@ -2,13 +2,13 @@ package AdditionalTasks.AbsctractAnimals;
 
 public class Main {
     public static void main(String[] args) {
-        Cat cat1 = new Cat();
-        cat1.move();
+        Cat cat = new Cat();
+        cat.move();
 
-        Duck duck1 = new Duck();
-        duck1.move();
+        Duck duck = new Duck();
+        duck.move();
 
-        Fish fish1 = new Fish();
-        fish1.move();
+        Fish fish = new Fish();
+        fish.move();
     }
 }

@@ -2,7 +2,7 @@ package AdditionalTasks.InterfaceRunnable;
 
 public class Main {
     public static void main(String[] args) {
-        Dog dog1 = new Dog();
-        dog1.run();
+        Dog dog = new Dog();
+        dog.run();
     }
 }
