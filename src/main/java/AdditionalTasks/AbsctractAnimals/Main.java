@@ -1,10 +1,5 @@
 package AdditionalTasks.AbsctractAnimals;
 
-import AdditionalTasks.AbsctractAnimals.Animal;
-import AdditionalTasks.AbsctractAnimals.Cat;
-import AdditionalTasks.AbsctractAnimals.Duck;
-import AdditionalTasks.AbsctractAnimals.Fish;
-
 public class Main {
     public static void main(String[] args) {
         Cat cat1 = new Cat();
@@ -15,6 +10,5 @@ public class Main {
 
         Fish fish1 = new Fish();
         fish1.move();
-
     }
 }
