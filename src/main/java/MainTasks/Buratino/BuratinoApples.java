@@ -1,4 +1,4 @@
-package Buratino;
+package MainTasks.Buratino;
 
 public class BuratinoApples {
     public static void main(String[] args) {

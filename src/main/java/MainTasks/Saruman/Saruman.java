@@ -1,4 +1,4 @@
-package Saruman;
+package MainTasks.Saruman;
 
 public class Saruman {
     public static void main(String[] args) {

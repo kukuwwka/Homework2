@@ -1,4 +1,4 @@
-package TravelTime;
+package MainTasks.TravelTime;
 
 public class TravelTime {
     public static void main(String[] args) {

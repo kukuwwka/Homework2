@@ -1,4 +1,4 @@
-package Sale;
+package MainTasks.Sale;
 
 public class Sale {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Mortgage;
+package MainTasks.Mortgage;
 
 public class Mortgage {
     public static void main(String[] args) {

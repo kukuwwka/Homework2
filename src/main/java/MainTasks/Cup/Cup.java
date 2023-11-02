@@ -1,4 +1,4 @@
-package Cup;
+package MainTasks.Cup;
 
 public class Cup {
     public static void main(String[] args) {

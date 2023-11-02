@@ -1,4 +1,4 @@
-package AgeOfUniverse;
+package MainTasks.AgeOfUniverse;
 
 public class AgeOfUniverse {
     public static void main(String[] args) {
