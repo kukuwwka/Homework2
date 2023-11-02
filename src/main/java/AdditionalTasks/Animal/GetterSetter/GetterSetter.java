@@ -1,7 +1,7 @@
-package AdditionalTasks.Animal.SetterGetter;
+package AdditionalTasks.Animal.GetterSetter;
 
-public class Main {
-    private int value = 3223;
+public class GetterSetter {
+    private int value = 125;
 
     public int getValue() {
         return value;
